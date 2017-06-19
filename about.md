@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Stephan Raaijmakers, PhD
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Senior Data Scientist at TNO
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[stephan.raaijmakers[at]tno.nl](mailto:stephan.raaijmakers[at]tno.nl)
